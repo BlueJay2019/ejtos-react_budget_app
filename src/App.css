@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+DropdownButton {
+    background-color: #002037;
+    color: #e2dec0 !important;
+    margin: 0px 10px;
+  }
